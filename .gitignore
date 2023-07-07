@@ -1,0 +1,5 @@
+__pycache__
+Anaconda3/Scripts/activate
+.env
+venv/
+fastapi1/
