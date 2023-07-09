@@ -57,7 +57,7 @@ jupyter_ydoc==0.2.4
 jupyterlab==3.6.3
 jupyterlab_pygments==0.1.2
 jupyterlab_server==2.22.0
-libsodium==1.0.18
+libsodium==1.0.1
 libxml2==2.10.3
 libxslt==1.1.37
 lxml==4.9.2
